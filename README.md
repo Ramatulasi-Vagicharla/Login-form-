@@ -4,7 +4,7 @@ This is a **Login Form** built using **HTML**, **CSS**, and **JavaScript**. The 
 
 ## Features:
 - **Responsive Design**: The login form adjusts to different screen sizes and devices.
-- **CSS Animations**: Various smooth animations for input fields, buttons, and form transitions.
+- **CSS Animations**: Various smooth animations for input fields, buttons, and aslo in this it can form transitions.
 - **JavaScript Validation**: Basic form validation using JavaScript to ensure proper input before submission.
 
 ## Technologies Used:
