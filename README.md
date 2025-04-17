@@ -1,4 +1,4 @@
-# Login Form with Animations
+# Login Form with AnimationS
 
 This is a **Login Form** built using **HTML**, **CSS**, and **JavaScript**. The form is enhanced with animations to provide a smooth and engaging user experience.
 
